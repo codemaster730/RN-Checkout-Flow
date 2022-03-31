@@ -32,7 +32,10 @@ expo start
 
 ## Screenshots
 
-Click [here](screenshots/README.md)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png) ![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png) ![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png) ![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png) ![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
 
 ## Documentation
 
