@@ -32,10 +32,10 @@ expo start
 
 ## Screenshots
 
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/blob/main/screenshots/Home.png?raw=true)
 ![alt text](https://github.com/codechef703/RN-Checkout-Flow/blob/main/screenshots/AddToCart.png?raw=true)
-![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
-![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
-![alt text](https://github.com/codechef703/RN-Checkout-Flow/screenshots/Home.png)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/blob/main/screenshots/Cart.png?raw=true)
+![alt text](https://github.com/codechef703/RN-Checkout-Flow/blob/main/screenshots/Checkout.png?raw=true)
 
 ## Documentation
 
