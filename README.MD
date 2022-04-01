@@ -1,4 +1,4 @@
-# SHOP UI React-Native Template
+# React-Native Checkout Flow Boilerplate
 
 ## Introduction
 
